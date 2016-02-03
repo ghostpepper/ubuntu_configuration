@@ -1,0 +1,23 @@
+  1 127.0.0.1       localhost
+  2 127.0.1.1       pepperbot
+  3 
+  4 # Facebook
+  5 0.0.0.0 www.facebook.com
+  6 0.0.0.0 facebook.com
+  7 ::0 www.facebook.com
+  8 ::0 facebook.com
+  9 
+ 10 # Imgur
+ 11 0.0.0.0 www.imgur.com
+ 12 0.0.0.0 imgur.com
+ 13 ::0 www.imgur.com
+ 14 ::0 imgur.com
+ 15 
+ 16 # The following lines are desirable for IPv6 capable hosts
+ 17 ::1     ip6-localhost ip6-loopback
+ 18 fe00::0 ip6-localnet
+ 19 ff00::0 ip6-mcastprefix
+ 20 ff02::1 ip6-allnodes
+ 21 ff02::2 ip6-allrouters
+ 22 
+ 23 127.0.0.1 facebook.com login.facebook.com secure.facebook.com latest.facebook.com inyour.facebook.com
